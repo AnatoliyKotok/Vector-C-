@@ -1,0 +1,11 @@
+C:\Users\Anatoliy\source\repos\Home work Vector\Home work Vector\bin\Debug\netcoreapp3.1\Home work Vector.exe
+C:\Users\Anatoliy\source\repos\Home work Vector\Home work Vector\bin\Debug\netcoreapp3.1\Home work Vector.deps.json
+C:\Users\Anatoliy\source\repos\Home work Vector\Home work Vector\bin\Debug\netcoreapp3.1\Home work Vector.runtimeconfig.json
+C:\Users\Anatoliy\source\repos\Home work Vector\Home work Vector\bin\Debug\netcoreapp3.1\Home work Vector.runtimeconfig.dev.json
+C:\Users\Anatoliy\source\repos\Home work Vector\Home work Vector\bin\Debug\netcoreapp3.1\Home work Vector.dll
+C:\Users\Anatoliy\source\repos\Home work Vector\Home work Vector\bin\Debug\netcoreapp3.1\Home work Vector.pdb
+C:\Users\Anatoliy\source\repos\Home work Vector\Home work Vector\obj\Debug\netcoreapp3.1\Home work Vector.csprojAssemblyReference.cache
+C:\Users\Anatoliy\source\repos\Home work Vector\Home work Vector\obj\Debug\netcoreapp3.1\Home work Vector.AssemblyInfoInputs.cache
+C:\Users\Anatoliy\source\repos\Home work Vector\Home work Vector\obj\Debug\netcoreapp3.1\Home work Vector.AssemblyInfo.cs
+C:\Users\Anatoliy\source\repos\Home work Vector\Home work Vector\obj\Debug\netcoreapp3.1\Home work Vector.dll
+C:\Users\Anatoliy\source\repos\Home work Vector\Home work Vector\obj\Debug\netcoreapp3.1\Home work Vector.pdb
